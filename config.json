@@ -1,0 +1,9 @@
+{
+    "FIRST_LOGIN": true,
+    "LAST_WALLET_SELECTED": "1",
+    "COLLECT_FEES": false,
+    "RPC_URL": "",
+    "DISCORD_WEBHOOK": "",
+    "TELEGRAM_BOT_TOKEN": "",
+    "TELEGRAM_CHAT_ID": 0
+}
