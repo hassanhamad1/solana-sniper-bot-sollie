@@ -1,9 +1,0 @@
-InquirerPy
-jupiter-python-sdk
-pyfiglet
-pandas
-tabulate
-yaspin
-requests
-httpx
-aiohttp
