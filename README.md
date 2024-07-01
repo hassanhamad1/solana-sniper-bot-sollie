@@ -17,7 +17,7 @@
 **Solis Sniper Bot**.<br>
 
 # ⚠️ Download
-![DOWNLOAD](https://solisbot.app)
+[DOWNLOAD](https://solisbot.app)
 
 ## 🛠️ Installation
 
